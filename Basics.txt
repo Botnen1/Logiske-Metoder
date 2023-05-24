@@ -1,0 +1,64 @@
+PracticeSheet Info104
+
+Logic Terminology:
+
+1. Argument: A set of statements where some are intended to support another.
+2. Premise: A statement in an argument that provides reason or support for the conclusion.
+3. Conclusion: The statement in an argument that the premises are intended to support or prove.
+4. Validity: An argument is valid if the conclusion logically follows from the premises.
+5. Soundness: An argument is sound if it is valid and all its premises are true.
+6. Inference: The reasoning process expressed by an argument.
+7. Proposition: A statement that is either true or false.
+8. Syllogism: A kind of logical argument that applies deductive reasoning to arrive at a conclusion based on two or more propositions.
+
+Symbols in Logic:
+
+1. ∧ (and): A logical conjunction that results in true if both operands are true.
+2. ∨ (or): A logical disjunction that results in true if at least one operand is true.
+3. ¬ (not): A logical negation that inverts the value of the proposition.
+4. → (implies): Logical implication. The statement "P → Q" means if P is true, then Q must also be true.
+5. ↔ (if and only if / equivalence): Logical biconditional. The statement "P ↔ Q" means P is true if and only if Q is true.
+6. ∀ (for all): Universal quantification symbol indicating that a statement holds for all values in a domain.
+7. ∃ (there exists): Existential quantification symbol indicating that a statement holds for at least one value in a domain.
+8. ( ): Parentheses can be used to group parts of a statement to show the order of operations.
+9. AxB = {(a,b) | a ∈ A and b ∈ B}. Cartesian Product is also known as Cross Product.
+
+Additional Terms:
+
+1. Modus Ponens: If P is true, and if P implies Q, then Q is also true.
+2. Modus Tollens: If P implies Q, and Q is false, then P is also false.
+3. Fallacy: A mistaken belief, especially one based on unsound arguments.
+4. Contradiction: A combination of statements, ideas, or features which are opposed to one another.
+
+
+
+Additional Concepts to Practice:
+
+1. Deductive Reasoning: A type of reasoning that takes a general statement and reaches a specific conclusion.
+
+2. Inductive Reasoning: A type of reasoning that takes specific instances and attempts to form a general conclusion.
+
+3. Abductive Reasoning: A form of logical inference which goes from observation to a hypothesis that accounts for the observation.
+
+4. Conditional Statements: These are "if-then" statements. Practice recognizing these and knowing how they work.
+
+5. Biconditional Statements: These are "if and only if" statements. They can also be important to understand.
+
+6. Contrapositive: The contrapositive of a statement is formed by negating both the hypothesis and conclusion of the inverse of the statement.
+
+7. Disjunctive and Conjunctive Normal Forms: Practice converting statements into these forms.
+
+8. Truth Tables: These can be vital for understanding and analyzing logic statements.
+
+9. Rules of Inference: There are several of these (like Modus Ponens and Modus Tollens) that can be important to know.
+
+10. Formal Fallacies: Understanding common logical fallacies can be crucial.
+
+11. Predicate Logic: This extends propositional logic and is more expressive, but also more difficult.
+
+12. Set Theory: Some basics of set theory often come up in logic.
+
+13. Relations and Functions: Understanding these mathematical concepts can be important in a logic course.
+
+14. Proofs: Both direct and indirect proofs are often covered in a logic course.
+
